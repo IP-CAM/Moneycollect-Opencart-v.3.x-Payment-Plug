@@ -1,2 +1,2 @@
-# moneycollect-opencart-payemnt-plug
+# moneycollect-opencart-payment-plug
  
